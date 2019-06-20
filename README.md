@@ -14,7 +14,7 @@
 
 ## Lessons
 
-- Part1_A: Making An Interactive Light System(Part1_A.pdf)
+- Part1_A: Making An Interactive Light System https://github.com/siheun/Arduino/blob/master/Lessons/Part%201_A.pdf
 
 - Part2_B: Connecting Sound System
 
