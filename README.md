@@ -14,9 +14,11 @@
 
 ## Lessons
 
-- Part1_A: Making An Interactive Light System (https://github.com/siheun/Arduino/blob/master/Lessons/Part%201_A.pdf)
+- Part 1_A: Making An Interactive Light System (https://github.com/siheun/Arduino/blob/master/Lessons/Part%201_A.pdf)
 
-- Part2_B: Connecting Sound System
+- Part 1_B: Connecting Sound System & FSR (https://github.com/siheun/Interactive-Environment/blob/master/Lessons/Part1_B.pdf)
+
+- Part2: Building up Interactive Installation According to Motion I & Motion II (https://github.com/siheun/Interactive-Environment/blob/master/Lessons/Part2.pdf)
 
 ---
 
